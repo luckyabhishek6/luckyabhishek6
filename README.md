@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Abhishek kumar mishra@luckyabhishek6
-- 👀 I’m interested in full stack Blockchian and data science
-- 🌱 I’m currently learning solidity,NFT,Ethereum
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Abhishek Kumar Mishra @luckyabhishek6
+- 👀 I’m interesed in full stack Blockchian and data science
+- 🌱 I’m currently learning Solidity,NFT,Ethereum
+- 💞️ I’m looking to collaborate on blockchain community 
 - 📫 How to reach me ...
 
 <!---
